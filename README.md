@@ -1,6 +1,8 @@
 <h1 align="center"> :sparkles: Marjory Mel GitHub :sparkles: </h1>
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marjorymel&show_icons=true&theme=radical" alt="Marjory GitHub stats">
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marjorymel&layout=compact&theme=radical" alt="Top Langs">
