@@ -13,5 +13,5 @@
 <h2 align="center"> :sparkling_heart: Linguagens e Ferramentas :sparkling_heart: </h2>
 <br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,html,git,css,c,vscode,github,java" />
+  <img src="https://skillicons.dev/icons?i=javascript,html,git,css,c,vscode,github,java,cypress" />
 </div>
